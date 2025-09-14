@@ -53,3 +53,5 @@ If you have some players on your server that you want to really send everything 
     void OnConvoyAttacked(BasePlayer player, Vector3 convoyPosition)
 
 ![cr2](https://github.com/user-attachments/assets/e54845b6-0f5e-446e-bed4-6d916dcc7ee1)
+
+![cr3](https://github.com/user-attachments/assets/cae918dc-1173-4349-9589-be98fa236432)
