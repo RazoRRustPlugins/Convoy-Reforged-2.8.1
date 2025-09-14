@@ -1,5 +1,7 @@
 **About Convoy**
 
+<img width="1920" height="1080" alt="cr1" src="https://github.com/user-attachments/assets/b9c1e0e0-236e-4b6b-ad12-9a8b828e2d05" />
+
 Set your server apart with a roaming mobile event that has nearly endless configuration options! Configure the loot truck as well as the Convoy of protection vehicles ranging from sedans, module cars, Bradley tanks, motorbikes, vendor trucks, to a patrol helicopter! The plugin runs on custom and procedural generated maps, can use custom routes or let the plugin find a random route based on your configuration.
 
 You can make yours an aggressive or a peaceful Convoy, who shoots first? You can set all kinds of parameters regarding the many pieces of the event, how to beat it, whether destroying the loot truck destroys the loot or not for example. There are many compatible plugins like TruePVE, GUIAnnouncements, Notify, DiscordMessages, and RustCord to name a few. The plugin has a built in UI that will give you important information about the event as you are inside it's zone. Check the map to see the location of the event as a marker and even see the timer on the event! All of the ground vehicles are driven and filled with NPCs. Every vehicle, the NPCs, and the loot as well as all timers can be configured to suit your server. A PvP zone can be created within the event area for those of you who use TruePVE to control damage on your servers. The limits are nearly endless!
